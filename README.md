@@ -37,7 +37,7 @@ Graduating in Computer Engineering from [Federal University of Espirito Santo - 
 ## Hard Skills
 
 ### Languages
-  <img alt="Emeps-language-CSS3" src="./assets/css3.svg">
+  <img alt="Emeps-language-CSS3" src="./assets/CSS3.svg">
   <img alt="Emeps-language-HTML5" src="./assets/html-5.svg">
   <img alt="Emeps-language-javascript" src="./assets/javascript.svg">
   <img alt="Emeps-language-typescript" src="./assets/typescript.svg">
