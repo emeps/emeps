@@ -36,37 +36,44 @@ Graduating in Computer Engineering from [Federal University of Espirito Santo - 
 
 ## Hard Skills
 
-#### Languages and Database
-<div style = "display: inline-block">
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+### Languages
+  <img alt="Emeps-language-CSS3" src="./assets/css3.svg">
+  <img alt="Emeps-language-HTML5" src="./assets/html-5.svg">
+  <img alt="Emeps-language-javascript" src="./assets/javascript.svg">
+  <img alt="Emeps-language-typescript" src="./assets/typescript.svg">
+  <img alt="Emeps-language-C" src="./assets/C.svg">
+  <img alt="Emeps-language-java" src="./assets/java.svg">
+  <img alt="Emeps-language-kotlin" src="./assets/kotlin.svg">
+  <img alt="Emeps-language-python" src="./assets/python.svg">
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### Library, Framework and tools
+  <img alt="Emeps-library-framework-reactjs" src="./assets/reactjs.svg">
+  <img alt="Emeps-library-framework-redux" src="./assets/redux.svg">
+  <img alt="Emeps-library-framework-sass" src="./assets/sass.svg">
+  <img alt="Emeps-library-framework-expressjs" src="./assets/expressjs.svg" width=50>
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### Database
+  <img alt="Emeps-database-mongodb" src="./assets/mongodb.svg">
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+### Development Tools
+<img alt="Emeps-development-tools-vscode" src="./assets/vscode.svg">
+<img alt="Emeps-development-tools-androi-studio" src="./assets/android-studio.svg">
+<img alt="Emeps-development-tools-intellij-idea" src="./assets/intellij-idea.svg">
+<img alt="Emeps-development-tools-nodejs" src="./assets/nodejs.svg" width=48>
+<img alt="Emeps-development-tools-npm" src="./assets/npm.svg">
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img  alt="Emeps-twitter" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-</div>
+### Control Version
+<img alt="Emeps-control-version-git" src="./assets/git.svg">
+<img alt="Emeps-control-version-github" src="./assets/github.svg">
 
-#### Development Tools
+### Utilities Tools
+  <img alt="Emeps-utilities-tools-adobexd" src="./assets/adobe-xd.svg">
+  <img alt="Emeps-utilities-tools-trello" src="./assets/trello.svg">
+  <img alt="Emeps-utilities-tools-notion" src="./assets/notion.svg">
+  <img alt="Emeps-utilities-tools-whimsical" src="./assets/whimsical.png" width=48px>
 
-[Construction]
-
-#### Control Version
-
-[Construction]
-
-#### Utilities Tools
-[Construction]
 </div>
 
 ##
