@@ -2,8 +2,11 @@
 
 ## Hello. I'm Emerson Patryck and welcome to my GitHub.
 
-Graduated in Electrotechnical Technician from [Federal Institute of Espirito Santo - Campus São Mateus](http://sm.ifes.edu.br/). <br>
-Graduating in Computer Engineering from [Federal University of Espirito Santo - CEUNES](https://ceunes.ufes.br/).
+Graduated in Electrotechnical Technician from
+[Federal Institute of Espirito Santo - Campus São Mateus](http://sm.ifes.edu.br/).
+<br> Graduating in Computer Engineering from
+[Federal University of Espirito Santo - CEUNES](https://ceunes.ufes.br/).
+
 </div>
 
  <div align="center">
@@ -31,48 +34,45 @@ Graduating in Computer Engineering from [Federal University of Espirito Santo - 
 
 ##
 
-
-<div align="center"> 
+<div align="center">
 
 ## Hard Skills
 
 ### Languages
+
   <img alt="Emeps-language-CSS3" src="./assets/CSS3.svg">
   <img alt="Emeps-language-HTML5" src="./assets/html-5.svg">
   <img alt="Emeps-language-javascript" src="./assets/javascript.svg">
   <img alt="Emeps-language-typescript" src="./assets/typescript.svg">
-  <img alt="Emeps-language-C" src="./assets/C.svg">
+  <!-- <img alt="Emeps-language-C" src="./assets/C.svg"> -->
   <img alt="Emeps-language-java" src="./assets/java.svg">
-  <img alt="Emeps-language-kotlin" src="./assets/kotlin.svg">
+  <!-- <img alt="Emeps-language-kotlin" src="./assets/kotlin.svg"> -->
   <img alt="Emeps-language-python" src="./assets/python.svg">
 
-
 ### Library, Framework and tools
+
   <img alt="Emeps-library-framework-reactjs" src="./assets/reactjs.svg">
-  <img alt="Emeps-library-framework-redux" src="./assets/redux.svg">
+  <img alt="Emeps-library-framework-laravel" src="./assets/laravel.svg" width=44>
+  <!-- <img alt="Emeps-library-framework-redux" src="./assets/redux.svg"> -->
   <img alt="Emeps-library-framework-sass" src="./assets/sass.svg">
   <img alt="Emeps-library-framework-expressjs" src="./assets/expressjs.svg" width=50>
 
 ### Database
+
   <img alt="Emeps-database-mongodb" src="./assets/mongodb.svg">
+  <img alt="Emeps-database-mysql" src="./assets/mysql.svg">
 
 ### Development Tools
+
 <img alt="Emeps-development-tools-vscode" src="./assets/vscode.svg">
 <img alt="Emeps-development-tools-androi-studio" src="./assets/android-studio.svg">
-<img alt="Emeps-development-tools-intellij-idea" src="./assets/intellij-idea.svg">
 <img alt="Emeps-development-tools-nodejs" src="./assets/nodejs.svg" width=48>
 <img alt="Emeps-development-tools-npm" src="./assets/npm.svg">
 
-
 ### Control Version
+
 <img alt="Emeps-control-version-git" src="./assets/git.svg">
 <img alt="Emeps-control-version-github" src="./assets/github.svg">
-
-### Utilities Tools
-  <img alt="Emeps-utilities-tools-adobexd" src="./assets/adobe-xd.svg">
-  <img alt="Emeps-utilities-tools-trello" src="./assets/trello.svg">
-  <img alt="Emeps-utilities-tools-notion" src="./assets/notion.svg">
-  <img alt="Emeps-utilities-tools-whimsical" src="./assets/whimsical.png" width=48px>
 
 </div>
 
